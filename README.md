@@ -1,3 +1,5 @@
+# [Analytics App Repository](https://github.com/obaidhoque/django_analytics_app)
+
 # Creating a Django virtual environment
 1. Create a dedicated directory for virtual environment in terminal or powershell\
     `mkdir project_name `
@@ -22,5 +24,5 @@ Plan is to create analytics dashboard using plotly's graphing library in Django 
 
 # The Django Dashboard Application
 
-![Analytics App](django_app_flexmonster.gif)\
-[Analytics App Repository](https://github.com/obaidhoque/django_analytics_app)
+![Analytics App](django_app_flexmonster.gif)
+
