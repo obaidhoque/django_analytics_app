@@ -1,4 +1,5 @@
 # [Analytics App Repository](https://github.com/obaidhoque/django_analytics_app)
+With Django, you can take Web applications from concept to launch in a matter of hours and I found it very intuitive and straight-forward. You can click on the linked header for checking the repo. Additionally, you can also click this video [link](django_app_flexmonster.mov) to download and see the deployment process on my desktop server. 
 
 # Creating a Django virtual environment
 1. Create a dedicated directory for virtual environment in terminal or powershell\
@@ -17,10 +18,12 @@
     `http://127.0.0.1:8000/dashboard/`
 
 # Flex monster Web Reporting
-Flexmonster is an amazing JS framework for deploying web reporting tools such as pivot tables, pie charts etc. 
+Flexmonster is an amazing JS framework for deploying web reporting tools such as pivot tables, pie charts etc. I am only beginning to learn JS and have found it to be quite flexible and interesting
 
 # Future projects using Django
-Plan is to create analytics dashboard using plotly's graphing library in Django application. 
+1. Use plotly's graphing library (`graph_objects`) to create an analytics dashboard
+2. Incorporate a machine learning application onto the Django framework
+3. Create a data collection application using python libraries such as `selenium`, `request` etc
 
 # The Django Dashboard Application
 
