@@ -18,3 +18,4 @@ Plan is to create analytics dashboard using plotly's graphing library in Django 
 # The Django Dashboard Application
 
 ![Analytics App](django_app_flexmonster.gif)
+[Analytics App Repository](https://github.com/obaidhoque/django_analytics_app)
