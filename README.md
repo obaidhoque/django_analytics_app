@@ -1,5 +1,5 @@
 # [Django Application Repository](https://github.com/obaidhoque/django_analytics_app)
-With Django, you can take Web applications from concept to launch in a matter of hours and I found it very intuitive and straight-forward. You can click on the linked header for checking the repo. Additionally, you can also click this video [link](django_app_flexmonster.mov) to download and see the deployment process on my desktop server. 
+With Django, you can take Web applications from concept to launch in a matter of hours and I found it very intuitive and straight-forward. You can click on the linked header for checking the repo. Additionally, you can also click this __[video link](django_app_flexmonster.mov)__ to download and see the deployment process on my desktop server. 
 
 ![Analytics App](django_app_flexmonster.gif) 
 
